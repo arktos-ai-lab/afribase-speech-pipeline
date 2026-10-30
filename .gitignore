@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+source_audio/
+segments/
+filtered/
+corpus*/
+runs*/
+logs/
+results/ckpt/
+*.wav
+*.mp3

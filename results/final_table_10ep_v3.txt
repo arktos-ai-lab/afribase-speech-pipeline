@@ -1,0 +1,10 @@
+
+# FLEURS WER Table
+
+Language   | whisper_small_ft10v3_amh | whisper_small_ft10v3_hau | whisper_small_ft10v3_lin | whisper_small_ft10v3_swh | whisper_small_ft10v3_yor
+----------------------------------------------------------------------------------------------------------------------------------------------------
+amh        | 1.7639                   | —                        | —                        | —                        | —                       
+hau        | —                        | 0.9124                   | —                        | —                        | —                       
+lin        | —                        | —                        | 0.7653                   | —                        | —                       
+swh        | —                        | —                        | —                        | 0.5086                   | —                       
+yor        | —                        | —                        | —                        | —                        | 1.0932                  

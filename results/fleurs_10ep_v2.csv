@@ -1,0 +1,11 @@
+label,language,fleurs_code,model,system,n_utt,wer,cer
+whisper_small_ft10v2_amh,amh,am_et,runs_10ep_v2/whisper-small-amh/best/,whisper,516,1.6689,1.4883
+whisper_small_ft10v2_hau,hau,ha_ng,runs_10ep_v2/whisper-small-hau/best/,whisper,621,0.9116,0.3301
+whisper_small_ft10v2_lin,lin,ln_cd,runs_10ep_v2/whisper-small-lin/best/,whisper,478,0.7822,0.1965
+whisper_small_ft10v2_swh,swh,sw_ke,runs_10ep_v2/whisper-small-swh/best/,whisper,487,0.5205,0.1589
+whisper_small_ft10v2_yor,yor,yo_ng,runs_10ep_v2/whisper-small-yor/best/,whisper,831,1.0788,0.5103
+whisper_small_zs,lin,ln_cd,openai/whisper-small,whisper,478,0.8992,0.236
+whisper_small_zs,hau,ha_ng,openai/whisper-small,whisper,621,0.9064,0.3269
+whisper_small_zs,swh,sw_ke,openai/whisper-small,whisper,487,0.7319,0.1948
+whisper_small_zs,amh,am_et,openai/whisper-small,whisper,516,1.1567,1.1627
+whisper_small_zs,yor,yo_ng,openai/whisper-small,whisper,831,1.6597,0.8743

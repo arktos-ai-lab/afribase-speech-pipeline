@@ -1,0 +1,27 @@
+# AfriBase-Speech pipeline requirements
+# Install: pip install -r requirements.txt
+# GPU runs: also install torch with CUDA matching your driver
+
+# Audio processing
+pydub>=0.25.1
+soundfile>=0.12.1
+librosa>=0.10.1
+audiomentations>=0.33.0
+
+# Speech models
+faster-whisper>=1.0.0
+transformers>=4.41.0
+datasets>=2.19.0
+torch>=2.3.1
+torchaudio>=2.3.1
+
+# Evaluation
+jiwer>=3.0.3
+
+# Data packaging
+pyarrow>=14.0.0
+
+# Utilities
+requests>=2.31.0
+tqdm>=4.66.0
+numpy>=1.24.0
