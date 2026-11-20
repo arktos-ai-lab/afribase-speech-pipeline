@@ -6,7 +6,7 @@ Code for building AfriBase-Speech Tier 1a, a speech corpus for African languages
 
 The pipeline goes from the course MP3s to fine-tuned Whisper-small checkpoints and FLEURS word error rates. It applies to any instruction recording with one dominant instruction language and public domain or permissively licensed content.
 
-This repository holds code and result tables only. The corpus and the fine-tuned checkpoints are released separately.
+This repository holds code and result tables only. The corpus is on Hugging Face as [vGassen/afribase-speech](https://huggingface.co/datasets/vGassen/afribase-speech) (DOI [10.57967/hf/11727](https://doi.org/10.57967/hf/11727)), together with the VOA broadcast audio of the companion paper as Tier 1b. The fine-tuned checkpoints will be released separately.
 
 ## Stages
 
